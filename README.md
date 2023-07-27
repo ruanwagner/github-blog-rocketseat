@@ -60,9 +60,9 @@ App layout desing is available on Figma:
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="print page" title="#githubblog" src="../public/print1.png" width="400px">
+  <img alt="print page" title="#githubblog" src="./public/print1.png" width="400px">
 
-  <img alt="print page post" title="#githubblog" src="../public/print2.png" width="400px">
+  <img alt="print page post" title="#githubblog" src="./public/print2.png" width="400px">
 </p>
 
 ---
